@@ -1,4 +1,4 @@
-package OneQuestionPerDay;
+package one_question_perday;
 
 public class Q1185DayOfTheWeek {
     public String dayOfTheWeek(int day, int month, int year) {

@@ -1,4 +1,4 @@
-package OneQuestionPerDay;
+package one_question_perday;
 
 public class Q390EliminationGame {
 
