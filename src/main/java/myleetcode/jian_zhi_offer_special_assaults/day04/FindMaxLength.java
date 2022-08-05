@@ -1,4 +1,4 @@
-package myleetcode.jian_zhi_offer_special_assault.day04;
+package myleetcode.jian_zhi_offer_special_assaults.day04;
 
 import java.util.HashMap;
 
