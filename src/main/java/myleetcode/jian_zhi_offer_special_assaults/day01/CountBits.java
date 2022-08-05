@@ -1,4 +1,4 @@
-package myleetcode.jian_zhi_offer_special_assault.day01;
+package myleetcode.jian_zhi_offer_special_assaults.day01;
 
 public class CountBits {
     /**
