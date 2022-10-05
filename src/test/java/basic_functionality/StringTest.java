@@ -1,3 +1,5 @@
+package basic_functionality;
+
 import org.junit.Test;
 
 public class StringTest {
