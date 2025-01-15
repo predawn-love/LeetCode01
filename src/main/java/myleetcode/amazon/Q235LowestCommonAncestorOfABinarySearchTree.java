@@ -1,5 +1,7 @@
 package myleetcode.amazon;
 
+import myleetcode.TreeNode;
+
 import java.util.*;
 
 class Q235 {

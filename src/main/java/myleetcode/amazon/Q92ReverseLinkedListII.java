@@ -1,12 +1,5 @@
 package myleetcode.amazon;
 
-class ListNode {
-      int val;
-      ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-}
 class Q92 {
     /**
      * 解法1：大雪菜的思路： ....,a,m,......,n,c,...

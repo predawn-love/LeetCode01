@@ -1,5 +1,7 @@
 package myleetcode.amazon;
 
+import myleetcode.TreeNode;
+
 public class Q236LowestCommonAncestorOfABinaryTree {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (root == null || root == p || root == q) {
